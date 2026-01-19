@@ -1,0 +1,30 @@
+# Data manipulation & analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning & preprocessing
+scikit-learn
+xgboost
+lightgbm
+
+# Time series analysis
+statsmodels
+prophet
+# Interactive dashboards (optional)
+dash
+dash-bootstrap-components
+
+# Jupyter Notebook support
+jupyter
+notebook
+
+# Utilities
+openpyxl
+xlrd
+tqdm
+joblib
